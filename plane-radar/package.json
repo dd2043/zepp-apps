@@ -1,0 +1,13 @@
+{
+  "name": "plane-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Plane radar for the Amazfit Cheetah Square (Zepp OS 3)",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "@zeppos/zml": "0.0.43"
+  }
+}
